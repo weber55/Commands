@@ -1,0 +1,38 @@
+
+## Project 3
+
+Eri Kudo (811902706)
+Brian Weber (811973356)
+
+
+## Instructions
+
+To clean my code (i.e., remove any compiled files), type:
+
+```
+$ make clean
+```
+
+To compile my code, type:
+
+```
+$ make
+```
+
+To run my code (after compiling it), type:
+
+```
+$ ./cal [[month] year]
+$ ./date [+format]
+$ ./head [-n number] [file...]
+$ ./ln [-s] target-file link-file
+$ ./ls [-al] [file...]
+$ ./mkdir [-p] [-m mode] dir...
+$ ./env
+$ ./tail [-f] [ -c number | -n number] [file]
+$ ./true
+$ ./false
+$ ./wc [-c | -m] [-lw] [file...]
+$ ./pwd
+$ ./cksum [file...]
+```
